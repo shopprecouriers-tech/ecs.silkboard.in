@@ -7,7 +7,7 @@ Welcome developers! The ECS Developer Center is your homepage for the ECS develo
 ## Programming Languages
 
 - Java
-- [Javascript](http://ecs.shoppre.com/languages/javascript/)
+- [Javascript](/languages/javascript/)
 - .NET
 - PHP
 - Python
