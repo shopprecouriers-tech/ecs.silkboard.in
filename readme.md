@@ -1,3 +1,3 @@
 # EcS - **E**-**c**ommerce **S**uite
 
-E-commerce Fulfillment Apps for Shopify
+E-commerce Fulfillment Apps & Web Services for Shopify
